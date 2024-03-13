@@ -20,9 +20,3 @@ These are the various functions that this program will execute:
 6. Search books by book ID
 7. Search books by book Title
 8. Checking availability of books
-
-
-
-Borrow books	Return books	Search books by book ID	Search books by book TitleChecking availability of books
-
-
